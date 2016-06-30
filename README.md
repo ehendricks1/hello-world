@@ -1,3 +1,5 @@
 # hello-world
+
 literary love
-I am working on this for my final Literate Computing project
+
+I am working on this for my final project
